@@ -82,6 +82,7 @@ public class MainActivity extends ActionBarActivity {
             }
         });
     //   readContacts();
+        
     }
 
     private void readContacts() {
